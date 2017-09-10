@@ -1,0 +1,240 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;	
+}
+/*左边页面*/
+ #body-left{
+	font-family:"宋体";
+	position:fixed;
+	background:url(../img/left.jpg) no-repeat;
+	float:left;
+	width:220px;
+	height:724px;
+}
+ #body-left a{
+	color:#000;
+	text-decoration:none;	
+}
+#body-left .body-leftmain{
+	
+}
+ #body-left .body-leftmain .nav1 a{
+	margin-left:60px;
+	
+	font-size:18px;
+	
+}
+#body #body-left .body-leftmain ul li{
+	list-style:none;
+	margin-top:12px;
+	margin-left:20px;
+	
+}
+ #body-left .body-leftmain  .t:hover span , #body-left .body-leftmain  .t:hover{
+	text-decoration:none;
+	color:red;
+	
+}
+#body-left .body-leftmain  p{
+	width:200px;
+	padding-top:12px;
+	border-top:1px solid rgba(204,204,204,0.8);
+	text-decoration:none;
+	font-size:18px;
+	font-weight:500;	
+}
+
+ #body-left .body-leftmain  .p{
+	display:none;
+	float:right;
+	margin-top:8px;
+	margin-right:25px;
+	height:12px;
+	width:13px;
+	background:url(../img/solution_cate_icon.png) no-repeat 0 -3px;
+}
+ #body-left .body-leftmain  .pp{
+	float:right;
+	
+	margin-right:25px;
+	margin-top:8px;
+	height:12px;
+	width:13px;
+	background:url(../img/solution_cate_icon.png) no-repeat 0 -23px;
+}
+ #body-left .body-leftmain  .u{
+	display:none;
+}
+ #body-left .body-leftmain ul li ul li{
+	cursor:pointer;
+	color:rgba(51,51,51,0.8);
+	text-indent:2em;
+	list-style:none;
+}
+/*左边页面*/
+
+/*右边页面*/
+ #body-right{
+	overflow:hidden;
+	background:#9CF;
+	height:1200px;			
+}
+/*右边页面*/
+ #body-right-f{
+	overflow:hidden;
+	background:#FFF;
+	height:1200px;			
+}
+/*右边页面*/
+ #body-right-f-z{
+	overflow:hidden;
+	background:#900;
+	height:1200px;			
+}
+/*右边页面*/
+ #body-right-f-s{
+	overflow:hidden;
+	background:#6F0;
+	height:1200px;			
+}
+/*右边页面*/
+ #body-right-f-g{
+	overflow:hidden;
+	background:#CC6;
+	height:1200px;			
+}
+/*右边页面*/
+ #body-right-f-c{
+	overflow:hidden;
+	background:#360;
+	height:1200px;			
+}
+/*右边页面*/
+
+/*头部页面*/
+#top{
+
+	padding-top:18px;
+	padding-left:18px;
+	background:url(../img/top.jpg);
+	width:1424px;
+	height:80px;
+	clear:both;	
+	
+}
+#top img{
+	float:left;
+}
+#top .new a{
+	text-decoration:none;
+	
+}
+#top .new i{
+	font:normal;
+	
+}
+#top .new a:hover{
+	color:#900;
+	
+}
+#top .top-main{
+
+	float:left;
+	margin-left:65px;
+}
+#top .top-main ul li{
+	width:145px;
+	height:100px;
+	list-style:none;
+	float:left;	
+}
+#top .top-main ul li a{
+	font-family:"宋体";
+	font-weight:600;
+	display:block;
+	float:left;
+	height:20px;
+	text-decoration:none;
+	color:rgba(0,0,0,0.8);
+}
+#top .top-main ul li p{
+	cursor:pointer;
+	display:block;
+	width:27px;
+	height:27px;
+	margin-left:18px;
+	margin-bottom:5px;
+}
+#top .top-main ul li .z{
+	background:url(../img/btop.jpg) no-repeat -313px -474px;	
+}
+#top .top-main ul li .x{
+	background:url(../img/btop.jpg) no-repeat -562px -474px;	
+}
+#top .top-main ul li .c{
+	background:url(../img/btop.jpg) no-repeat -808px -474px;	
+}
+#top .top-main ul li .v{
+	background:url(../img/btop.jpg) no-repeat -313px -610px;	
+}
+#top .top-main ul li .b{
+	background:url(../img/btop.jpg) no-repeat -313px -335px;	
+}
+#top .top-main ul li .n{
+	background:url(../img/btop.jpg) no-repeat -688px -197px;	
+}
+#top .top-main ul li .m{
+	background:url(../img/btop.jpg) no-repeat -688px -57px;	
+}
+/*头部页面*/
+
+
+/*更多应用页面*/
+
+ #body-right-m{
+	overflow:hidden;
+	background:#CCF;
+	height:1200px;			
+}
+
+
+ #body-right-m ul li{
+	margin:25px 35px;
+	width:200px;
+	height:120px;
+	list-style:none;
+	float:left;			
+}
+ #body-right-m ul li a{
+	margin:0px auto;
+	display:block;
+	width:97px;
+	height:97px;
+}
+ #body-right-m ul li .z{
+	
+	background:url(../img/btop.jpg) no-repeat -28px -22px;		
+}
+ #body-right-m ul li .x{
+	background:url(../img/btop.jpg) no-repeat -152px -22px;		
+}
+ #body-right-m ul li .c{
+	background:url(../img/btop.jpg) no-repeat -277px -22px;		
+}
+ #body-right-m ul li .v{
+	background:url(../img/btop.jpg) no-repeat -528px -22px;		
+}
+ #body-right-m ul li .b{
+	background:url(../img/btop.jpg) no-repeat -28px -160px;		
+}
+ #body-right-m ul li p{
+	cursor:pointer;
+	font-size:12px;
+	color:rgba(0,0,0,0.9);
+	width:95px;
+	margin:8px auto;
+	
+}
+
+/*更多应用页面*/
